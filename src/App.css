@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: "Quicksand", sans-serif;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: "Fredoka", sans-serif;
+  }
+
+  .font-floopa {
+    font-family: "Fredoka", sans-serif;
+  }
+
+  .font-quicksand {
+    font-family: "Quicksand", sans-serif;
+  }
+
+  .font-baloo {
+    font-family: "Baloo 2", cursive;
+  }
+
+  .bg-glass {
+    @apply backdrop-blur-xl bg-gradient-to-br from-white/10 via-purple-500/10 to-pink-500/10 rounded-3xl border border-white/20;
+  }
+}

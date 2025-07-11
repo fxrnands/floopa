@@ -1,0 +1,94 @@
+{
+  "title": "Floopa Whitepaper",
+  "introduction": {
+    "heading": "Introduction",
+    "content": "Floopa is the coin that refuses to take itself too seriously. Born from the spirit of online fun, Floopa celebrates the power of community, memes, and playfulness. We believe that the ultimate utility is joy — and that’s what we deliver."
+  },
+  "vision_mission": {
+    "heading": "Vision & Mission",
+    "vision": "To become the leading meme-driven token that turns internet fun into real value for everyone.",
+    "mission": [
+      "Empower a global community to play, laugh, and earn together.",
+      "Use memes and gamified engagement to fuel adoption.",
+      "Keep the ecosystem transparent, secure, and community-governed."
+    ]
+  },
+  "tokenomics": {
+    "heading": "Tokenomics",
+    "details": {
+      "Token Name": "Floopa",
+      "Symbol": "$FLOOPA",
+      "Total Supply": "1,000,000,000 $FLOOPA",
+      "Blockchain": "Ethereum (ERC-20)"
+    },
+    "distribution": [
+      { "category": "Community & Rewards", "percentage": "50%" },
+      { "category": "Liquidity Pool", "percentage": "30%" },
+      { "category": "Marketing & Partnerships", "percentage": "10%" },
+      { "category": "Team & Development", "percentage": "10%" }
+    ]
+  },
+  "utility": {
+    "heading": "Utility",
+    "items": [
+      "Community Rewards — Engage, create memes, win airdrops.",
+      "Play & Earn — Floopa will integrate fun mini-games and NFTs.",
+      "Voting & Governance — $FLOOPA holders decide on key proposals."
+    ]
+  },
+  "roadmap": {
+    "heading": "Roadmap",
+    "phases": [
+      {
+        "phase": "Q1",
+        "milestones": [
+          "Launch website",
+          "Community building",
+          "Token generation event"
+        ]
+      },
+      {
+        "phase": "Q2",
+        "milestones": ["Listings on DEX", "First meme contest", "NFT teaser"]
+      },
+      {
+        "phase": "Q3",
+        "milestones": [
+          "NFT mint",
+          "Floopa mini-game launch",
+          "Expand partnerships"
+        ]
+      },
+      {
+        "phase": "Q4",
+        "milestones": [
+          "Governance module live",
+          "First community proposals",
+          "Marketing push"
+        ]
+      }
+    ]
+  },
+  "community_governance": {
+    "heading": "Community & Governance",
+    "content": "Floopa thrives on its community. All major decisions — from treasury usage to new features — are subject to holder voting. Our governance model ensures a fair, decentralized future."
+  },
+  "security": {
+    "heading": "Security",
+    "content": "Floopa smart contracts are audited by reputable third parties. Liquidity pools are locked, and multi-sig wallets are used for treasury."
+  },
+  "disclaimer": {
+    "heading": "Disclaimer",
+    "content": "Cryptocurrencies are highly volatile and involve risk. Floopa is designed for entertainment and community engagement. Always DYOR (Do Your Own Research)."
+  },
+  "join_us": {
+    "heading": "Join Us",
+    "links": {
+      "Website": "https://yourdomain.com",
+      "Twitter": "@FloopaCoin",
+      "Discord": "https://discord.gg/your-invite",
+      "Telegram": "https://t.me/your-invite"
+    }
+  },
+  "motto": "PLAY. LAUGH. EARN. — Floopa."
+}
